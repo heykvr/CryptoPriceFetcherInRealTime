@@ -1,6 +1,6 @@
 # Crypto Price Tracker
 
-This project is a real-time cryptocurrency price tracker with a React frontend and Express backend.
+This project is a real-time cryptocurrency price tracker
 
 ## Prerequisites
 
