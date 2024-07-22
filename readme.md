@@ -12,9 +12,9 @@ This project is a real-time cryptocurrency price tracker
 
 1. Navigate to the backend directory
 2. Install dependencies:
-   npm install
+   ### npm install
 3. Start the backend server:
-   npm run dev
+   ### npm run dev
 The server will start on http://localhost:5000
 
 ## API Endpoints
@@ -27,9 +27,9 @@ The server will start on http://localhost:5000
 
 1. Navigate to the frontend directory
 2. Install dependencies:
-   npm install
+   ### npm install
 3. Start the frontend development server:
-   npm run dev
+   ### npm run dev
 The frontend will be available at http://localhost:8080
 
 ## Usage
